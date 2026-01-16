@@ -1,1 +1,1 @@
-"# log: stuff" 
+log:stuff
