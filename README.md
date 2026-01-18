@@ -9,7 +9,7 @@ This repository is a personal learning log where i track my daily progress while
 ## Repository Contents <br>
 - Daily Practice Problems <br>
 - Concept wise implementations <br>
--Notes and observations, and what i understood in general.
+- Notes and observations, and what i understood in general.
 ## Goal
 To build a solid foundation in C and C++ by mastering DSA and enter into AI/ML <br><br>
 ## Status
