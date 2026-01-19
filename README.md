@@ -5,7 +5,7 @@ This repository is a personal learning log where i track my daily progress while
 - Data Structures and Algorithms (DSA) <br>
 - C programming <br>
 - C++ <br>
-- Artificial Intelligence & Machine LEarning <br> <br
+- Artificial Intelligence & Machine Learning <br>
 ## Repository Contents <br>
 - Daily Practice Problems <br>
 - Concept wise implementations <br>
@@ -13,6 +13,6 @@ This repository is a personal learning log where i track my daily progress while
 ## Goal
 To build a solid foundation in C and C++ by mastering DSA and enter into AI/ML <br><br>
 ## Status
-Ongoing on a streak of Day-2
+Ongoing on a streak of Day-3
 
 
