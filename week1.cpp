@@ -52,6 +52,14 @@ cout<< num;
   return 0;
 }
 
+#include <iostream>
+using namespace std;
+int main(){
+  bool haha = true;
+  cout<< haha;
+return 0;
+}
+
 
 
 
