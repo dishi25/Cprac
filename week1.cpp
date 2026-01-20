@@ -26,7 +26,7 @@ int main(){
 return 0;
 }
 
-#include<iot.stream>
+#include<iostream>
 using namespace std;
 int main(){
   int var =10;
@@ -83,6 +83,7 @@ int lmao = wow+lol;
  cout<< lmao;
 return 0;
 }
+
 #include <iostream>
 using namespace std;
 int main(){
@@ -103,7 +104,6 @@ cout<<num;
 return 0;
 }
 
-
 #include <iostream>
 using namespace std;
 int main(){
@@ -112,8 +112,8 @@ woww = num1;
 cout<<woww;
 return 0;
 }
-//loops! finally!!
 
+//loops! finally!!
 #include<iostream>
 using namespace std;
 
