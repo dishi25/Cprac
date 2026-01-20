@@ -112,7 +112,8 @@ woww = num1;
 cout<<woww;
 return 0;
 }
+//loops! finally!!
 
-#include<iostrema>
+#include<iostream>
 using namespace std;
 
