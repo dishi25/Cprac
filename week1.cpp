@@ -46,7 +46,7 @@ cout<< c;
 using namespace std;
 int main(){
   int num = 10;
-  cout << num <<end1; ??end1 after the cout command just gives the output a new line.
+  cout << num <<endl; //endl after the cout command just gives the output a new line.
 num = 0x15;
 cout<< num;
   return 0;
@@ -60,6 +60,28 @@ int main(){
 return 0;
 }
 
+//type checking in cpp
+//we assign a boolean variable a data that we specify as its data type, and 
+//if it is correctly assigned, the boolean variable stores the value 1 and gives it as the output.
+#inlcude <iostream>
+using namespace std;
+int main(){
+  bool heheh = 1.205f;
+cout <<heheh;
+return 0;
+}
 
+//convert data types in cpp
+//when we convert characters into integers, they will give ascii value of that character.
+#include <iostream>
+using namespace std;
+int main(){
+  int wow = 3;
+char lol = 'C';
+cout << int(lol) << endl;
+int lmao = wow+lol;
+ cout<< lmao;
+return 0;
+}
 
 
