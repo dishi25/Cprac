@@ -87,9 +87,9 @@ return 0;
 using namespace std;
 int main(){
 cout << "size int in bytes:" << sizeof(int)<<endl;
-cout << "size float:" << sizeof(float)<<endl;
-cout << "size char:" << sizeof(char)<<endl;
-cout << "size double:" << sizeof(double)<<endl;
+cout << "size float in bytes:" << sizeof(float)<<endl;
+cout << "size char in bytes:" << sizeof(char)<<endl;
+cout << "size double in bytes:" << sizeof(double)<<endl;
 return 0;
 }
 
