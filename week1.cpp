@@ -32,3 +32,11 @@ int main(){
 cout<< var;
 return 0;
 }
+
+#include <iot.stream>
+using namespace std;
+int main(){
+  char c = 'S';
+cout<< c;
+  return 0;
+}
