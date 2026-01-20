@@ -93,3 +93,15 @@ cout << "size double in bytes:" << sizeof(double)<<endl;
 return 0;
 }
 
+#include <iostream>
+using namespace std;
+
+
+
+#include <iotstream>
+using namespace std;
+
+
+#include<iostrema>
+using namespace std;
+
