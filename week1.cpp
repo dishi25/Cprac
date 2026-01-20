@@ -25,3 +25,10 @@ int main(){
 return 0;
 }
 
+#include<iot.stream>
+using namespace std;
+int main(){
+  int var =10;
+cout<< var;
+return 0;
+}
