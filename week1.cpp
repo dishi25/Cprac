@@ -83,5 +83,13 @@ int lmao = wow+lol;
  cout<< lmao;
 return 0;
 }
-
+#include <iostream>
+using namespace std;
+int main(){
+cout << "size int in bytes:" << sizeof(int)<<endl;
+cout << "size float:" << sizeof(float)<<endl;
+cout << "size char:" << sizeof(char)<<endl;
+cout << "size double:" << sizeof(double)<<endl;
+return 0;
+}
 
