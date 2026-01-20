@@ -95,12 +95,23 @@ return 0;
 
 #include <iostream>
 using namespace std;
+int main(){
+int num =7;
+cout<< num <<endl;
+num=77;
+cout<<num;
+return 0;
+}
 
 
-
-#include <iotstream>
+#include <iostream>
 using namespace std;
-
+int main(){
+int num1 =3,woww;
+woww = num1;
+cout<<woww;
+return 0;
+}
 
 #include<iostrema>
 using namespace std;
