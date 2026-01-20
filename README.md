@@ -13,6 +13,6 @@ This repository is a personal learning log where i track my daily progress while
 ## Goal
 To build a solid foundation in C and C++ by mastering DSA and enter into AI/ML <br><br>
 ## Status
-Ongoing on a streak of Day-3
+Ongoing on a streak of Day-4
 
 
