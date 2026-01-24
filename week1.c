@@ -8,7 +8,7 @@ int main(void)
 }
 
 #include <stdio.h>
-int main()
+int main(){
 int var:
 var =10;
 printf("%d", var);
