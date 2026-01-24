@@ -1,6 +1,6 @@
 //DAY 1 OF C FROM BASICS TO HIGH-LEVEL.
 
-#include <stdio.h
+#include <stdio.h>
 int main(void)
 {
   printf("Hello world")
